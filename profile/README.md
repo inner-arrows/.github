@@ -1,6 +1,6 @@
-# Blue Toaster
+<h1 align="center"> Blue Toaster </h1>
 
-> A Org where I just create almost anything that's a **Good** Idea to me.
+> An Org where I just create almost anything that's a **Good** Idea to me.
 > 
 > ...
 > 
