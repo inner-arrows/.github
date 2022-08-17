@@ -1,9 +1,1 @@
-<h1 align="center"> Blue Toaster </h1>
-
-> An Org where I just create almost anything that's a **Good** Idea to me.
-> 
-> ...
-> 
-> Also that Icon for this Org, that's from my Fursona...
-> 
-> There's nothing really special here anyway...
+<h1 align="center"> | > < | Inner Arrow Studios </h1>
