@@ -1,1 +1,1 @@
-<h1 align="center"> | > < | Inner Arrow Studios </h1>
+<h1 align="center"> uVVu </h1>
